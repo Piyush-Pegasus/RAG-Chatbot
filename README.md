@@ -55,3 +55,6 @@ You can also use
   streamlit run streamapp.py
 ```
 for a better UI version
+
+## Demo Video
+[![Demo Video](demo-thumbnail.png)](demo.mp4 "Click to Watch!")
