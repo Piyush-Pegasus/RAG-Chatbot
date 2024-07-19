@@ -57,4 +57,4 @@ You can also use
 for a better UI version
 
 ## Demo Video
-[![Demo Video](demo-thumbnail.png)](demo.mp4 "Click to Watch!")
+[![Demo Video](demo-thumbnail.png)](Demo.mp4 "Click to Watch!")
